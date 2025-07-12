@@ -24,20 +24,35 @@ What you will find:
 
 ## 📂 Repo Structure
 interview-prep/
+
 ├── generative-ai/
+
 │ ├── questions.md
+
 │ └── answers.md
+
 ├── llm/
+
 │ ├── questions.md
+
 │ └── answers.md
+
 ├── agentic-ai/
+
 │ ├── questions.md
+
 │ └── answers.md
+
 ├── examples/
+
 │ ├── rag_example.ipynb
+
 │ └── agent_chain_example.ipynb
+
 ├── README.md
+
 ├── CONTRIBUTING.md
+
 └── LICENSE
 
 
