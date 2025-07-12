@@ -12,7 +12,7 @@ What you will find:
 - ** Hands-on examples**: Jupyter notebooks demonstrating RAG pipelines, agent chains, and more.  
 - ** Organized clarity**: Easy look-up by topic, polished formatting, and real-world reasoning.
 
----
+
 
 ## Why this repo stands out
 
@@ -20,40 +20,24 @@ What you will find:
 - **Expert-backed answers**: grounded in real results and best practices within LLMs and agent workflows.  
 - **Modular & extensible**: fully structured with clear separation of Q&A and runnable demos—ideal for self-study or team training.
 
----
+
 
 ## 📂 Repo Structure
+```bash
 interview-prep/
-
 ├── generative-ai/
-
-│ ├── questions.md
-
-│ └── answers.md
-
+│   ├── questions.md
+│   └── answers.md
 ├── llm/
-
-│ ├── questions.md
-
-│ └── answers.md
-
+│   ├── questions.md
+│   └── answers.md
 ├── agentic-ai/
+│   ├── questions.md
+│   └── answers.md
+└── examples/
+    ├── rag_example.ipynb
+    └── agent_chain_example.ipynb
 
-│ ├── questions.md
-
-│ └── answers.md
-
-├── examples/
-
-│ ├── rag_example.ipynb
-
-│ └── agent_chain_example.ipynb
-
-├── README.md
-
-├── CONTRIBUTING.md
-
-└── LICENSE
 
 
 Each section contains **question** and **answer** pairs. Demos in `examples/` complement theory with runnable code.
