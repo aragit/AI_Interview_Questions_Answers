@@ -9,8 +9,8 @@ This repository is designed for:
 What you will find:
 
 - **Structured Q&A** by topic: *Generative AI*, *LLMs*, and *Agentic AI*—with clean, concise answers drawing on practical experience and the latest research.  
-- ** Hands-on examples**: Jupyter notebooks demonstrating RAG pipelines, agent chains, and more.  
-- ** Organized clarity**: Easy look-up by topic, polished formatting, and real-world reasoning.
+- **Hands-on examples**: Jupyter notebooks demonstrating RAG pipelines, agent chains, and more.  
+- **Organized clarity**: Easy look-up by topic, polished formatting, and real-world reasoning.
 
 
 
