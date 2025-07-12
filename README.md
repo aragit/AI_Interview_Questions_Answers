@@ -23,3 +23,34 @@ What you will find:
 ---
 
 ## 📂 Repo Structure
+interview-prep/
+├── generative-ai/
+│ ├── questions.md
+│ └── answers.md
+├── llm/
+│ ├── questions.md
+│ └── answers.md
+├── agentic-ai/
+│ ├── questions.md
+│ └── answers.md
+├── examples/
+│ ├── rag_example.ipynb
+│ └── agent_chain_example.ipynb
+├── README.md
+├── CONTRIBUTING.md
+└── LICENSE
+
+
+Each section contains **question** and **answer** pairs. Demos in `examples/` complement theory with runnable code.
+
+---
+
+## 📚 How to use this repo
+
+1. **Browse Q&A** by topic for quick review.  
+2. **Run example notebooks** to reinforce understanding.  
+3. **Contribute your own questions** via pull requests—let’s grow this resource together!
+
+---
+
+Make this your go-to companion for cracking generative/LLM/agent interviews—with clarity, confidence, and code. Let’s master AI, one question at a time. 💡
