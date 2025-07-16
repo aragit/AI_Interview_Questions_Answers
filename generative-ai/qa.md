@@ -4,7 +4,7 @@
 - **LLM Core Concepts:** LLM Architectures (GPT, BERT, T5, LLaMA, Mistral, MoEs), Training Paradigm, Recent Transformer Improvements
 - **LLM Output Configuration & Prompt Engineering:** Prompting Techniques, Output Parameters
 
-### **NLP Fundamentals :**
+## **NLP Fundamentals :**
 **1. Question: What is Natural Language Processing (NLP), and what is its primary goal?**
 
 **Answer:** Natural Language Processing (NLP) is a subfield of Artificial Intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language in a valuable way. Its primary goal is to **bridge the communication gap between humans and computers**, allowing machines to process and make sense of the vast amounts of unstructured text and speech data that humans produce. This involves making computers capable of tasks like reading text, hearing speech, interpreting meaning, and even generating text or speech themselves.
